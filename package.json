@@ -1,0 +1,38 @@
+{
+  "name": "gulp-start",
+  "version": "1.0.0",
+  "description": "none",
+  "main": "main.min.js",
+  "dependencies": {
+    "gulp-cli": "^2.3.0"
+  },
+  "browserslist": [
+    "last 2 versions"
+  ],
+  "devDependencies": {
+    "autoprefixer": "^10.0.2",
+    "browser-sync": "^2.26.13",
+    "del": "^6.0.0",
+    "gulp": "^4.0.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-htmlmin": "^5.0.1",
+    "gulp-postcss": "^9.0.0",
+    "gulp-sass": "^4.1.0",
+    "gulp-terser": "^2.0.0",
+    "gulp-uglify": "^3.0.2",
+    "normalize.css": "^8.0.1",
+    "postcss": "^8.1.10"
+  },
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "keywords": [
+    "none"
+  ],
+  "author": "arokokko@gmail.com",
+  "license": "ISC"
+}

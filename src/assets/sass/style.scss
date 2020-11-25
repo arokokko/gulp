@@ -1,0 +1,20 @@
+.test {
+    margin-top: 10px;
+    &__box {
+        text-align: center;
+        color: red;
+    }
+}
+
+.test__text {
+    display: flex;
+    background-color: black;
+}
+
+body {
+    box-sizing: border-box;
+    
+}
+html {
+    font-size: 20px;
+}
